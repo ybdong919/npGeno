@@ -1,0 +1,2 @@
+"In order to further accurate SNP/genotype, some SNP sites are located at both ends of each contig should be deleted. The default base-number of each end is 20. You want to change the base-number into:"
+20
